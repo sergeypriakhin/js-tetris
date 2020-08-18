@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.canvas {
+  margin: 0 auto;
+  display: block;
+  border: 2px solid #fff;;
+}
+
+.header1 {
+  color: #fff;
+  margin: 40px 0;
+}
